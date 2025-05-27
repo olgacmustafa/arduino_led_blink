@@ -20,8 +20,6 @@ void setup() {
 
 void loop() {
   digitalWrite(led1, HIGH); // Turn the LED on
-  delay(1000);
-  digitalWrite(led1,LOW);
-  dealy(1000);
+ 
 }
 
